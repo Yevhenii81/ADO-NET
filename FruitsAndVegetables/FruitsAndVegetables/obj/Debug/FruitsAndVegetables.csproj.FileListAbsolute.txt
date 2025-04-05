@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\FruitsAndVegetables\FruitsAndVegetables\bin\Debug\FruitsAndVegetables.exe.config
+C:\Users\USER\source\repos\FruitsAndVegetables\FruitsAndVegetables\bin\Debug\FruitsAndVegetables.exe
+C:\Users\USER\source\repos\FruitsAndVegetables\FruitsAndVegetables\bin\Debug\FruitsAndVegetables.pdb
+C:\Users\USER\source\repos\FruitsAndVegetables\FruitsAndVegetables\obj\Debug\FruitsAndVegetables.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FruitsAndVegetables\FruitsAndVegetables\obj\Debug\FruitsAndVegetables.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FruitsAndVegetables\FruitsAndVegetables\obj\Debug\FruitsAndVegetables.exe
+C:\Users\USER\source\repos\FruitsAndVegetables\FruitsAndVegetables\obj\Debug\FruitsAndVegetables.pdb
