@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\hw_20_03_2025\hw_20_03_2025\bin\Debug\hw_20_03_2025.exe.config
+C:\Users\USER\source\repos\hw_20_03_2025\hw_20_03_2025\bin\Debug\hw_20_03_2025.exe
+C:\Users\USER\source\repos\hw_20_03_2025\hw_20_03_2025\bin\Debug\hw_20_03_2025.pdb
+C:\Users\USER\source\repos\hw_20_03_2025\hw_20_03_2025\obj\Debug\hw_20_03_2025.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\hw_20_03_2025\hw_20_03_2025\obj\Debug\hw_20_03_2025.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\hw_20_03_2025\hw_20_03_2025\obj\Debug\hw_20_03_2025.exe
+C:\Users\USER\source\repos\hw_20_03_2025\hw_20_03_2025\obj\Debug\hw_20_03_2025.pdb
