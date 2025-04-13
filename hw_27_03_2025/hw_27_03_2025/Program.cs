@@ -12,12 +12,12 @@ class Program
             try
             {
                 connection.Open();
-                Console.WriteLine("✅ Подключено к базе данных.\n");
+                Console.WriteLine("Подключено к базе данных.\n");
 
                 SqlCommand command = new SqlCommand(query, connection);
                 SqlDataReader reader = command.ExecuteReader();
 
-                Console.WriteLine("📋 Данные из таблицы Coffee:\n");
+                Console.WriteLine("Данные из таблицы Coffee:\n");
 
                 while (reader.Read())
                 {
@@ -35,7 +35,7 @@ class Program
             }
             catch (Exception ex)
             {
-                Console.WriteLine("❌ Ошибка при подключении или выполнении запроса: " + ex.Message);
+                Console.WriteLine("Ошибка при подключении или выполнении запроса: " + ex.Message);
             }
         }
 
